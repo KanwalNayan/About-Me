@@ -1,6 +1,6 @@
 # AboutMe
 
-Geospatial/ Data Analyst |Data Visualization
+Geospatial Analyst |Data Viz. Expert
 
 #### Expertise In: GIS Analysis, Digital Image Processing, Time Series Analysis, Network Analysis, Site Suitability Analysis, Trend Analysis, Remote Sensing, Ground data collection, Information and Scientific Visualization, Voluminous data processing, Quantitative/ Qualitative analysis and High-Performance Computing, Geostatistical Analysis
 #### Computational Skills: R, Python, Google Earth Engine, C, ERDAS Imagine, ArcInfo Workstation, ENVI, Quantum GIS, SWAT Modelling, MySQL, Visual Basics, GitHub, Latex
