@@ -80,9 +80,9 @@ Government of Andhra Pradesh | Department of Science and Technology | Government
 
 
 ## Talks & Lectures
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Analyzing spatial data - Centre of Excellence in Disaster Mitigation and Management (CoEDMM), IIT-Roorkee, October 28, 2022
+- PhD Seminar: Spatio-temporal analysis of remotely sensed greening & browning data across Uttarakhand for climate change induced natural vegetation type changes - (PIK), July 27, 2021
 - PhD Seminar: Exploring greening and browning in the Himalayan region using remote sensing data - (PIK), June 30, 2020
-- Spatio-temporal analysis of remotely sensed greening & browning data across Uttarakhand for climate change induced natural vegetation type changes - (PIK), July 27, 2021
 
 ## Publications
 1. Sehgal, M., Ghosh, S. K., Singh, K. N., & Mathur, A. (2021). Vulnerability of child health to climate related agricultural productivity threat in India. New Delhi: Sustainable Production and Consumption Sharma A 2022. Energy and Environment: an overview. DOI: https://doi.org/10.1016/j.spc.2021.05.004
