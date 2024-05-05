@@ -1,5 +1,20 @@
 # AboutMe
+- 👋 Hi, I’m @KanwalNayan
+- 👀 I’m interested in learning new technologies and developing efficient codes
+- 🌱 I currently manage a multidisciplinary team at WRI India
+- 💞️ I’m looking to collaborate on History for personal polyglot mapping
+- 📫 How to reach me: kanwalnayan@gmail
+- 💪 Let's work together to build better 🌍
 
+<!--- Comments
+- 🌱 I’m currently learning R & python for processing Raster and big datasets for data visualizing which includes (Exploratory tools, Information and Scientific visualiation)
+
+KanwalNayan/KanwalNayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+**
+
+# Resume
 Geospatial Analyst & Data Viz. Expert
 
 #### Expertise In: GIS Analysis, Digital Image Processing, Time Series Analysis, Network Analysis, Site Suitability Analysis, Trend Analysis, Remote Sensing, Ground data collection, Information and Scientific Visualization, Voluminous data processing, Quantitative/ Qualitative analysis and High-Performance Computing, Geostatistical Analysis
